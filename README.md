@@ -1,3 +1,26 @@
+## grbl_ros (jazzy) - 0.0.16-8
+
+The packages in the `grbl_ros` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy grbl_ros --override-release-repository-push-url git@github.com:revyos-ros/grbl_ros-release` on `Tue, 18 Jun 2024 01:33:03 -0000`
+
+The `grbl_ros` package was released.
+
+Version of package(s) in repository `grbl_ros`:
+
+- upstream repository: https://github.com/flynneva/grbl_ros.git
+- release repository: https://github.com/ros2-gbp/grbl_ros-release.git
+- rosdistro version: `0.0.16-7`
+- old version: `0.0.16-7`
+- new version: `0.0.16-8`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## grbl_ros (rolling) - 0.0.16-2
 
 The packages in the `grbl_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling grbl_ros --override-release-repository-url https://github.com/ros2-gbp/grbl_ros-release.git --override-release-repository-push-url git@github.com:ros2-gbp/grbl_ros-release.git` on `Fri, 10 Dec 2021 03:06:54 -0000`
